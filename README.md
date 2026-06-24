@@ -1,32 +1,32 @@
-# Trabajo Práctico: Integración Web, n8n y Google Sheets
+# Trabajo Práctico: Integración de MIT App Inventor, n8n y Google Sheets
 
-Este repositorio contiene la resolución del trabajo práctico que demuestra la integración de un formulario de MIT App Invetor con Google Sheets mediante la herramienta de automatización n8n y Google Cloud Console.
+Este repositorio contiene la resolución del trabajo práctico que demuestra la integración de una aplicación móvil desarrollada en **MIT App Inventor** con Google Sheets, utilizando la plataforma de automatización **n8n** y Cuentas de Servicio de Google Cloud.
 
 ## 📄 Documentación del Proceso
-El paso a paso detallado sobre la habilitación de las APIs en Google Cloud, la creación de la cuenta de servicio, la configuración de permisos y el mapeo en n8n se encuentra documentado de forma pública en el siguiente documento:
-
-👉 **[Documentación de Conexión Google Sheets y n8n](PEGAR_AQUÍ_EL_ENLACE_DEL_GOOGLE_DOC_CON_PERMISO_DE_LECTURA)**
 
 ---
 
 ## 📸 Evidencia de Ejecución
 
-A continuación se comprueba el correcto funcionamiento del flujo de datos, desde la recepción del Webhook hasta la escritura en la hoja de cálculo:
+A continuación se comprueba el correcto funcionamiento del flujo de datos, desde la aplicación móvil, pasando por el Webhook, hasta la escritura final en la hoja de cálculo:
 
-### 1. Datos almacenados en Google Sheets
-![Hoja con datos insertados](./images/)
+### 1. Lógica de envío en MIT App Inventor (JSON Request)
+![Bloques de MIT App Inventor](./images/captura_app.png)
 
-### 2. Flujo ejecutado con éxito en n8n
+### 2. Datos almacenados correctamente en Google Sheets
+![Hoja con datos insertados](./images/captura_sheets.png)
+
+### 3. Flujo ejecutado con éxito en n8n
 ![Ejecución exitosa en n8n](./images/captura_n8n.png)
 
 ---
 
 ## ⚙️ Flujo exportado de n8n (JSON)
 
-Código fuente del flujo de automatización listo para ser importado en cualquier instancia de n8n.
+A continuación, se adjunta el código fuente del flujo de automatización (Webhook + Google Sheets) listo para ser importado en cualquier instancia de n8n.
 
 <details>
 <summary>Haz clic aquí para desplegar el código JSON</summary>
 
 ```json
-PEGAR_AQUÍ_TODO_EL_TEXTO_DEL_ARCHIVO_JSON_QUE_DESCARGASTE
+PEGAR_AQUÍ_TODO_EL_TEXTO_DEL_ARCHIVO_JSON_QUE_DESCARGASTE_DE_N8N
