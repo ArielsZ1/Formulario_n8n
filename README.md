@@ -14,7 +14,8 @@ A continuación se comprueba el correcto funcionamiento del flujo de datos, desd
 ![Bloques de MIT App Inventor](./images/captura_app.png)
 
 ### 2. Datos almacenados correctamente en Google Sheets
-![Hoja con datos insertados](./images/captura_sheets.png)
+![Hoja con datos insertados](<img width="1600" height="792" alt="GoogleSheets" src="https://github.com/user-attachments/assets/47cabb31-853e-489a-9113-98c8c8b989e2" />
+)
 
 ### 3. Flujo ejecutado con éxito en n8n
 ![Ejecución exitosa en n8n](./images/captura_n8n.png)
