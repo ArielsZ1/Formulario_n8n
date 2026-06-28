@@ -11,14 +11,14 @@ Este repositorio contiene la resolución del trabajo práctico que demuestra la 
 A continuación se comprueba el correcto funcionamiento del flujo de datos, desde la aplicación móvil, pasando por el Webhook, hasta la escritura final en la hoja de cálculo:
 
 ### 1. Lógica de envío en MIT App Inventor (JSON Request)
-![Bloques de MIT App Inventor](./images/captura_app.png)
+![image alt](https://github.com/ArielsZ1/Formulario_n8n/blob/main/UI.jpeg)
 
 ### 2. Datos almacenados correctamente en Google Sheets
-![Hoja con datos insertados](<img width="1600" height="792" alt="GoogleSheets" src="https://github.com/user-attachments/assets/47cabb31-853e-489a-9113-98c8c8b989e2" />
-)
+![image alt](https://github.com/ArielsZ1/Formulario_n8n/blob/main/GoogleSheets.jpeg)
+
 
 ### 3. Flujo ejecutado con éxito en n8n
-![Ejecución exitosa en n8n](./images/captura_n8n.png)
+![image alt](https://github.com/ArielsZ1/Formulario_n8n/blob/main/n8n.jpeg)
 
 ---
 
