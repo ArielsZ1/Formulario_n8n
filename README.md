@@ -2,11 +2,11 @@
 
 Este repositorio contiene la resolución del trabajo práctico que demuestra la integración de una aplicación móvil desarrollada en **MIT App Inventor** con Google Sheets, utilizando la plataforma de automatización **n8n** y Cuentas de Servicio de Google Cloud.
 
-## 📄 Documentación del Proceso
+## Documentación del Proceso
 
 ---
 
-## 📸 Evidencia de Ejecución
+## Evidencia de Ejecución
 
 A continuación se comprueba el correcto funcionamiento del flujo de datos, desde la aplicación móvil, pasando por el Webhook, hasta la escritura final en la hoja de cálculo:
 
@@ -22,7 +22,7 @@ A continuación se comprueba el correcto funcionamiento del flujo de datos, desd
 
 ---
 
-## ⚙️ Flujo exportado de n8n (JSON)
+## Flujo exportado de n8n (JSON)
 
 A continuación, se adjunta el código fuente del flujo de automatización (Webhook + Google Sheets) listo para ser importado en cualquier instancia de n8n.
 
